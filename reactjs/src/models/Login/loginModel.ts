@@ -16,4 +16,5 @@ class LoginModel {
   };
 }
 
-export default LoginModel;
+
+export default LoginModel;;
